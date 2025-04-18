@@ -1,0 +1,94 @@
+agent:
+  drop_files: 파일을 업로드하려면 여기에 드롭하세요
+  title: 에이전트 채팅
+auth:
+  loading: 로딩 중...
+  login: 로그인
+  title: AWS의 생성형 AI 유스케이스
+chat:
+  advanced_options: 고급 옵션
+  create_link: 링크 생성
+  create_link_message: >-
+    링크를 생성하면 이 애플리케이션에 로그인할 수 있는 모든 사용자와 대화 기록을 공유하게 됩니다.
+  create_system_prompt: 시스템 프롬프트 생성
+  delete_chat_confirmation: '"{{title}}" 채팅을 삭제하시겠습니까?'
+  delete_confirmation: 삭제 확인
+  delete_link: 링크 삭제
+  delete_link_message: 링크를 삭제하여 대화 기록 공유를 중단할 수 있습니다.
+  drop_files: 여기에 파일을 드롭하세요
+  history: 대화 기록
+  initialize: 초기화
+  model_parameters: 모델 매개변수
+  open_link: 링크 열기
+  prompt_examples: 프롬프트 예시
+  save: 저장
+  saved_system_prompts: 저장된 시스템 프롬프트
+  search_by_title: 제목으로 검색
+  settings: 설정
+  share: 공유
+  share_conversation: 대화 기록 공유
+  sharing: 공유 중
+  show_system_prompt: 시스템 프롬프트 표시
+  system_prompt: 시스템 프롬프트
+  title: 채팅
+common:
+  cancel: 취소
+  clear: 지우기
+  close: 닫기
+  complete: 완료
+  create: 생성
+  delete: 삭제
+  enter_text: 텍스트 입력
+  error: 오류가 발생했습니다
+  errorNoSuggestions: 제안을 찾을 수 없습니다.
+  execute: 실행
+  feedback_received: 피드백이 접수되었습니다. 감사합니다.
+  here: 여기
+  load_more: 더 보기
+  loading: 로딩 중...
+  next: 다음
+  no_options_found: 옵션을 찾을 수 없습니다
+  none: 없음
+  notAuthenticated: 인증되지 않았습니다.
+  not_available: 사용할 수 없음
+  not_selected: 선택되지 않음
+  optional: 선택사항
+  previous: 이전
+  required: 필수
+  reviewComplete: 검토 완료
+  save: 저장
+  selectUseCase: 유스케이스 선택
+  start_over: 처음부터 다시 시작
+  submit: 제출
+  title: 제목
+  trace: 추적
+  try: 시도
+demo:
+  inter_use_cases: 유스케이스 통합
+diagram:
+  answer: 답변
+  chart: 차트
+  clear: 지우기
+  diagram_type: 다이어그램 유형 선택
+  diagram_will_appear: 여기에 다이어그램이 표시됩니다
+  download_as_png: PNG로 다운로드
+  download_as_svg: SVG로 다운로드
+  generate: 생성
+  input_example: 입력 예시
+  input_label: 다이어그램 생성을 위한 텍스트
+  input_placeholder: 다이어그램 생성을 위한 텍스트를 입력하세요
+  invalid_syntax: 잘못된 구문
+  markdown_edit: 마크다운 편집
+  mermaid_syntax: 여기에 Mermaid 구문 입력
+  model: 모델
+  other_diagram_types: 다른 다이어그램 유형 보기
+  png_error: 'PNG 출력 오류: '
+  result: 결과
+  serverBusy: 서버가 바쁩니다. 나중에 다시 시도해 주세요.
+  show_code: 코드 표시
+  show_diagram: 다이어그램 표시
+  step1_complete: '1단계: 완료'
+  step1_loading: '1단계: 최적의 다이어그램 선택 중'
+  step1_selected: 선택됨
+  step2_loading: '2단계: 다이어그램 생성 중'
+  svg_error: 'SVG 출력 오류: ' 
